@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### Welcome to Zahra Alali profile
 
-🌱 I’m currently learning Data Science in MISK
+🌱 I’m currently learning Data Science in MISK Immersive Programme
 <!--
 **Zahra-Alali/Zahra-Alali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
