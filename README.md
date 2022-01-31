@@ -1,5 +1,4 @@
-### Hi there 👋
-#### I'm Zahra Alali 
+### Hi there 👋 I'm Zahra Alali 
 
 
 🌱 I’m currently learning Data Science in MISK Immersive Programme.
