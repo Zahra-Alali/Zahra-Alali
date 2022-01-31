@@ -1,7 +1,15 @@
 ### Hi there 👋
-#### Welcome to Zahra Alali profile
+#### I'm Zahra Alali 
 
-🌱 I’m currently learning Data Science in MISK Immersive Programme
+
+🌱 I’m currently learning Data Science in MISK Immersive Programme.
+
+🔦 I’m currently learning everything I can.
+
+📫 How to reach me: [Email](ms.zahra.alali@gmail.com), Or [linkedin](www.linkedin.com/in/zahra-alali-684514185).
+
+😄 Pronouns: Zahra/she/her 
+
 <!--
 **Zahra-Alali/Zahra-Alali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
